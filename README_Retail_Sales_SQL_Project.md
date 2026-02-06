@@ -117,8 +117,8 @@ GROUP BY shift;
 ---
 
 ## 📌 Conclusion  
-**This project highlights the use of SQL for end-to-end retail sales analysis, from data cleaning to insight generation. 
-The results provide valuable visibility into customer behavior, sales trends, and operational patterns, reinforcing the importance of SQL as a core tool for data and business analytics.**
+This project highlights the use of SQL for end-to-end retail sales analysis, from data cleaning to insight generation. 
+The results provide valuable visibility into customer behavior, sales trends, and operational patterns, reinforcing the importance of SQL as a core tool for data and business analytics.
 ---
 
 ## 👤 Author
